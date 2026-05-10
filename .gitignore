@@ -1,0 +1,10 @@
+# Игнорируемые файлы для проекта C# / Python
+bin/
+obj/
+__pycache__/
+*.pyc
+*.log
+.env
+.vs/
+*.user
+*.suo
